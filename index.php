@@ -20,8 +20,6 @@
             <p>City</p>
             <input type="button" />
 
-  
-
             <p>Gender</p>
             <input value="male" type="radio" name="gender" checked />Male
             <input value="Female" type="radio" name="gender" />Female
