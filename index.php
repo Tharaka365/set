@@ -16,20 +16,9 @@
             <p>Name</p>
             <input type="text" name="name" /><br />
 
-            <p>NIC</p>
-            <input type="text" name="nic"/><br />
-
-            <p>Mobile</p>
-            <input type="text" name="mobile"/><br />
 
             <p>City</p>
-            <select name="city">
-                <option>Select Your City</option>
-                <option>Colombo</option>
-                <option>Kandy</option>
-                <option>Gampaha</option>
-                <option>Kurunegala</option>
-            </select>
+            <input type="button" />
 
             <br />
 
